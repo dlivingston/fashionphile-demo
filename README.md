@@ -1,6 +1,6 @@
-# BBG Boilerplate
+# Fashionphile Demo
 
-Boilerplate web dev and build package using Browserify, Babel, and Gulp (with SASS thrown in).
+Built using my boilerplate web dev and build package using Browserify, Babel, and Gulp (with SASS thrown in).
 
 ## Setup 
 	npm install
